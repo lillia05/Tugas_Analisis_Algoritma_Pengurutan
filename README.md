@@ -1,0 +1,2 @@
+# Tugas_Analisis_Algoritma_Pengurutan
+Petruk Teori
